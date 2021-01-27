@@ -7,7 +7,7 @@ The flexibility of Field Programmable Gate Arrays (FPGAs) as well as their paral
 
 A link to the full paper is available at the following address: [https://sonnino.com/papers/figuli2016variable.pdf](https://sonnino.com/papers/figuli2016variable.pdf).
 
-This project is the result of my master thesis at the [Karlsruhe Institute of Technologies (KIT)](http://kit.edu), and is available [here](https://sonnino.com/thesis/KIT%20Master%20Thesis%20-%20Alberto%20Sonnino.pdf). You can also find a presentation of this project [here](https://sonnino.com/presentations/Presentation%20-%20Performance%20Driven%20Optimizations%20in%20FPGA%20Based%20QAM%20Systems.pdf).
+This project is the result of my master thesis at the [Karlsruhe Institute of Technologies (KIT)](http://kit.edu), and is available [here](https://sonnino.com/theses/kit-master.pdf).
 
 ## Edits
 An updated paper integrating forward error correction and achieving better performance is available [here](https://sonnino.com/papers/figuli2017generic.pdf).
